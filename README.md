@@ -1,6 +1,8 @@
 # DeepXPression
 3D life simulator in Unreal Engine, based on interactions between the main character and the environment and decision making, aiming to convey a socially relevant message. The player controls a man with major depressive disorder, and each decision has effects on its world. Experience, world, characters and dialogues were designed in Articy:draft 3.
 
+https://github.com/user-attachments/assets/c12e8ee8-fcfb-4b5f-9a23-aee748f9fcce
+
 ## Repository content
 This repository contains:
 * The entire UnrealEngine project
